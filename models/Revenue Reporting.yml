@@ -8,6 +8,9 @@ metrics:
     folder: Base Currency Metrics
   - unique_name: FX Rate
     folder: FX Rates
+  - unique_name: m_factinternetsales_salesorderlinenumber_sum
+  - unique_name: m_factinternetsales_taxamt_sum
+    folder: Base Currency Metrics
 relationships:
   - unique_name: factinternetsales_productkey_to_Product Dimension_Product Code
     from:
