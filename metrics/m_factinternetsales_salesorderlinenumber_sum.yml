@@ -1,0 +1,7 @@
+unique_name: m_factinternetsales_salesorderlinenumber_sum
+object_type: metric
+label: 'Sales Order Line #'
+description: added description
+calculation_method: sum
+column: salesorderlinenumber
+dataset: factinternetsales
