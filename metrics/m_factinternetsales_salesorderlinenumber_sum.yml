@@ -1,6 +1,6 @@
 unique_name: m_factinternetsales_salesorderlinenumber_sum
 object_type: metric
-label: 'Sales Order Line #'
+label: 'Sales Order Line Number'
 description: added description
 calculation_method: sum
 column: salesorderlinenumber
