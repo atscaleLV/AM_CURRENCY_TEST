@@ -1,4 +1,4 @@
-unique_name: Currency_Reporting_DEV
+unique_name: Currency_Reporting
 object_type: model
 label: Currency_Reporting_Label
 metrics:
@@ -9,7 +9,10 @@ metrics:
   - unique_name: FX Rate
     folder: FX Rates
   - unique_name: m_factinternetsales_salesorderlinenumber_sum
+    folder: Base Currency Metrics
   - unique_name: m_factinternetsales_taxamt_sum
+    folder: Base Currency Metrics
+  - unique_name: Total_Product_Cost_sum
     folder: Base Currency Metrics
 relationships:
   - unique_name: factinternetsales_productkey_to_Product Dimension_Product Code
