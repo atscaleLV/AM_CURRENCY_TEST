@@ -1,6 +1,6 @@
 version: 1
-unique_name: Clone_Aodan
+unique_name: AM_CURRENCY_TEST
 object_type: catalog
-label: Clone_Aodan
+label: 2_TEST_AM_CURRENCY
 aggressive_agg_promotion: false
 build_speculative_aggs: true
