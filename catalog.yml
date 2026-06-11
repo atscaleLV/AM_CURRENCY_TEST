@@ -1,6 +1,6 @@
 version: 1
-unique_name: AM_CURRENCY_TEST
+unique_name: 2TST_AM_CURRENCY
 object_type: catalog
-label: 2_TEST_AM_CURRENCY
+label: 2TST_AM_CURRENCY
 aggressive_agg_promotion: false
 build_speculative_aggs: true
